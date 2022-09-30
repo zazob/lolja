@@ -7,7 +7,12 @@ h1{
 }
 
 body{
+
    font-size: 60px;
    font-family: verdana;
    background-color: pink;
+}
+
+#roupas {
+    width: 30%;
 }
