@@ -18,8 +18,11 @@ body{
 }
 
 
-<ul>
-            <li>Camisa Vermelha</li>
-            <li>Camisa Azul</li>
-            <li>Camisa Preta</li>
-        </ul>
+<ul>  {
+    <li>Camisa Vermelha</li>
+    <li>Camisa Azul</li>
+    <li>Camisa Preta</li>
+</ul>
+
+}
+
