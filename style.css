@@ -1,6 +1,6 @@
 
 h1{
-    color: rgb(111, 0, 255);
+    color: rgb(0, 0, 0);
     text-align: center;
     font-size: 80px;
     font-family: Arial;
@@ -10,7 +10,7 @@ body{
 
    font-size: 30px;
    font-family: verdana;
-   background-color: rgb(61, 223, 252);
+   background-color: rgb(201, 252, 61);
 }
 
 #roupas {
