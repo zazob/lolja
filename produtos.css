@@ -12,4 +12,6 @@ body{
     background-color: rgba(240, 181, 94, 0.733);
  }
 
- 
+ p{ 
+    text-align: left;
+}
